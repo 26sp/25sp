@@ -12,7 +12,7 @@
 [Discord](https://discord.gg/fWysyzq7qj)
 [Website](https://www.sparkfire298.tk/contact)
 [Solo.to](https://solo.to/sparkfire298)
-Email: andrew@sparkfire298.xyz
+Email: sparkfire298@sparkfire298.se
 
 # About me
 - Learning JS
