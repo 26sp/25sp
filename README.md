@@ -3,7 +3,7 @@
 
 # Projects:
 - Sparkfirebot (Multipurpose Discord bot)
-
+[![Join sparkfire298's village ](https://discord.com/api/guilds/794810924497371166/embed.png?style=banner2)](https://discord.gg/PeRGrjBsh4)
 
 # Contact:
 [Twitter](https://twitter.com/sparkfire298)
@@ -16,4 +16,3 @@ Email: sparkfire298@sparkfire298.xyz
 - Learning JS
 - In high school
 - Left handed
- <iframe src="https://ptb.discord.com/widget?id=794810924497371166&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
