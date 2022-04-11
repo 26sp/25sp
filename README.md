@@ -2,9 +2,7 @@
 # Welcome to this random shitty profile
 
 # Projects:
-- Saxobot (Discord Selfbot that anyone can command)
 - Sparkfirebot (Multipurpose Discord bot)
-- - Sparkfire298.tk (Website)
 
 
 # Contact:
@@ -12,7 +10,7 @@
 [Discord](https://discord.gg/fWysyzq7qj)
 [Website](https://www.sparkfire298.tk/contact)
 [Solo.to](https://solo.to/sparkfire298)
-Email: sparkfire298@sparkfire298.se
+Email: sparkfire298@sparkfire298.xyz
 
 # About me
 - Learning JS
