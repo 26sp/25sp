@@ -1,9 +1,11 @@
 ### Hi there, I'm Spark 👋
 # Welcome to this random shitty profile
 
+# JOIN THE DISCORD
+[![Join sparkfire298's village ](https://discord.com/api/guilds/794810924497371166/embed.png?style=banner2)](https://discord.gg/PeRGrjBsh4)
+
 # Projects:
 - Sparkfirebot (Multipurpose Discord bot)
-[![Join sparkfire298's village ](https://discord.com/api/guilds/794810924497371166/embed.png?style=banner2)](https://discord.gg/PeRGrjBsh4)
 
 # Contact:
 [Twitter](https://twitter.com/sparkfire298)
