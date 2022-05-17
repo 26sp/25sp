@@ -32,5 +32,6 @@
 - Windows
 
 
-**Ok**
-[![Join sparkfire298's village ](https://discord.com/api/guilds/973884271175540787/embed.png?style=banner2)](https://discord.gg/T24ngaS9dR)
+# Socials
+- [Twitter (active)[https://twitter.com/sparkfire298)
+- [Discord](https://discord.gg/T24ngaS9dR)
