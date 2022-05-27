@@ -1,4 +1,4 @@
-### Hi
+### Hello world
 
 # About me
 - I'm from Australia. I like coding and interacting with the Discord API. I'm a boy
