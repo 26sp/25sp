@@ -18,10 +18,9 @@ I made **sparkfirebot** on Discord
 # Server specs:
 ## Physical:
 I use this when I'm running test builds of my bots or other things.
-Spoiler: This is actually my personal desktop
 - Windows 10
-- 16 GB RAM 3200MHz
-- 256 GB SSD
+- 8 GB RAM 3200MHz
+- 512 GB SSD + 1TB HDD + 512 GB HDD
 - Intel Core i5-11th gen
 
 ## Cloud:
