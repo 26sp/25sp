@@ -1,4 +1,5 @@
-# hey, im spark 👋
+# Hey, I'm sparkfire298. Welcome to my GitHub profile!
+@25sp
 
 ### Things I do:
 - i'm the developer of [sparkfirebot](http://sparkfirebot.gq), a multipurpose discord bot with 160+ commands
@@ -9,5 +10,5 @@
 
 
 ### widgets
-[![Discord Bots](https://top.gg/api/widget/757780137449226272.svg)(https://top.gg/bot/757780137449226272)
+![Discord Bots](https://top.gg/api/widget/757780137449226272.svg)
 
